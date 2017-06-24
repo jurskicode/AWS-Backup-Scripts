@@ -1,5 +1,3 @@
-# Jurski NYC AWS Backup Scripts
-
 Jurski NYC AWS Backup Scripts
 =========
 
